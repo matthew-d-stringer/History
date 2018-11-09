@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}The West: Settlement of the Last Frontier}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}The Cattle Frontier}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}The Farming Frontier}{2}{subsection.1.2}
+\contentsline {section}{\numberline {2}American Indians in the West}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Reservation Policy}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Indian Wars}{3}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Assimilationists}{3}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Dawes Severalty Act (1887)}{4}{subsection.2.4}
