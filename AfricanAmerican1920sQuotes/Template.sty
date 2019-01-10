@@ -1,0 +1,50 @@
+\ProvidesPackage{template}
+
+\usepackage{tikz}
+\usetikzlibrary{matrix,arrows}
+\usepackage{graphicx}
+\usepackage{amsmath} 
+\usepackage{amssymb} 
+\usepackage{amsthm}
+\usepackage{enumitem} % to change appearance of enum and item environments
+\usepackage{framed}
+\usepackage{color}
+\usepackage{multicol}
+\usepackage [english]{babel}
+\usepackage [autostyle, english = american]{csquotes}
+\MakeOuterQuote{"}
+%Matthew
+%\usepackage[utf8]{inputenc}
+%\usepackage[english]{babel}
+%end Matthew
+
+%\usepackage{yhmath}
+% adjust the margins using the geometry package
+\usepackage[left=0.75in, right=0.75in, top=0.75in, bottom=0.75in]{geometry}
+\usepackage[parfill]{parskip}
+ %\usepackage{mathpazo}
+%\usepackage{euler}
+
+
+% customize the headers using the fancyhdr package
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+
+\usepackage{hyperref}
+
+\usepackage{mathrsfs}
+\usepackage{mathtools}
+
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+\newenvironment{hwproblem}[1]{{\large \bfseries Problem #1\,:} \begin{trivlist}\item[]\vspace{-0.5ex}}{\end{trivlist}\vspace{3ex}}
+\newenvironment{hwproblemquestion}[1]{{\bfseries Question #1\,:} \begin{trivlist}\item[]\vspace{-1.5ex}}{\end{trivlist}\vspace{3ex}}
+
+
+% customize enumerate and itemize environments
+\setlist[itemize]{labelsep=1ex,itemsep=1.5ex,parsep=0ex,leftmargin=4ex,topsep=0.5ex}
+\setlist[enumerate]{labelsep=1ex,itemsep=1.5ex,parsep=0ex,leftmargin=4ex,topsep=0.5ex}
+
+\allowdisplaybreaks
+\setlength{\parindent}{4em}
