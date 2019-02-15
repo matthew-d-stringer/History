@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.20)  15 FEB 2019 08:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.20)  15 FEB 2019 09:17
 entering extended mode
 **c:/Users/3250/MatthewPersonal/2018-19/History/Chapter25Notes/Notes.tex
 (c:/Users/3250/MatthewPersonal/2018-19/History/Chapter25Notes/Notes.tex
@@ -1222,30 +1222,30 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 50.
 
 [3] [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 104.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 104.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 131.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 131.
  (Notes.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 104.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 104.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 131.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 131.
 Package rerunfilecheck Info: File `Notes.out' has not changed.
-(rerunfilecheck)             Checksum: 2B70253713E5F195097117715D117673;810.
+(rerunfilecheck)             Checksum: FD443B87387E87C9AFA208190DCC0367;1089.
  ) 
 Here is how much of TeX's memory you used:
- 29942 strings out of 492972
- 596118 string characters out of 3127066
- 626069 words of memory out of 3000000
- 33400 multiletter control sequences out of 15000+200000
+ 29950 strings out of 492972
+ 596228 string characters out of 3127066
+ 627069 words of memory out of 3000000
+ 33404 multiletter control sequences out of 15000+200000
  544920 words of font info for 76 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,11n,65p,854b,725s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,11n,65p,854b,843s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/3250/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb><C:/Users/3250/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
 ic/amsfonts/cm/cmr12.pfb><C:/Users/3250/AppData/Local/Programs/MiKTeX 2.9/fonts
 /type1/public/amsfonts/cm/cmr17.pfb><C:/Users/3250/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Notes.pdf (4 pages, 67721 bytes).
+Output written on Notes.pdf (4 pages, 71901 bytes).
 PDF statistics:
- 102 PDF objects out of 1000 (max. 8388607)
- 17 named destinations out of 1000 (max. 500000)
- 101 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 123 PDF objects out of 1000 (max. 8388607)
+ 21 named destinations out of 1000 (max. 500000)
+ 133 words of extra memory for PDF output out of 10000 (max. 10000000)
 
