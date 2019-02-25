@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.8.20)  15 FEB 2019 02:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.8.20)  20 FEB 2019 00:55
 entering extended mode
 **"f:/My Documents/Matthew/2018-2019/History/Chapter25Notes/Notes.tex"
 ("f:/My Documents/Matthew/2018-2019/History/Chapter25Notes/Notes.tex"
@@ -1258,14 +1258,14 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 30.
  [2] [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 84.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 84.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 85.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 85.
  (Notes.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 84.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 84.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 85.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 85.
 Package rerunfilecheck Info: File `Notes.out' has not changed.
 (rerunfilecheck)             Checksum: 63CDA4FB481DB157588A5D9468ECB349;764.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 84.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 85.
  ) 
 Here is how much of TeX's memory you used:
  29567 strings out of 492973
@@ -1279,7 +1279,7 @@ Here is how much of TeX's memory you used:
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Notes.pdf (3 pages, 63903 bytes).
+Output written on Notes.pdf (3 pages, 63676 bytes).
 PDF statistics:
  93 PDF objects out of 1000 (max. 8388607)
  15 named destinations out of 1000 (max. 500000)
