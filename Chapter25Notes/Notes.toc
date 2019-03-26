@@ -1,17 +1,30 @@
-\contentsline {section}{\numberline {1}Paragraph}{2}{section.1}
-\contentsline {section}{\numberline {2}American Foreign Policy in 1930s}{3}{section.2}
-\contentsline {subsection}{\numberline {2.1}Herbert Hoover's Foreign Policy}{3}{subsection.2.1}
-\contentsline {subsubsection}{\numberline {2.1.1}Japanese Aggression}{3}{subsubsection.2.1.1}
-\contentsline {subsubsection}{\numberline {2.1.2}Latin America}{3}{subsubsection.2.1.2}
-\contentsline {subsection}{\numberline {2.2}Franklin Roosevelt's Policies, 1933-1938}{3}{subsection.2.2}
-\contentsline {subsubsection}{\numberline {2.2.1}Good-Neighbor Policy}{3}{subsubsection.2.2.1}
-\contentsline {section}{\numberline {3}Isolationism and Neutrality- beliefs and policies}{3}{section.3}
-\contentsline {subsection}{\numberline {3.1}Learning from World War 1}{3}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Neutrality Acts}{4}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Spanish Civil War}{4}{subsection.3.3}
-\contentsline {subsection}{\numberline {3.4}America First Commitee}{4}{subsection.3.4}
-\contentsline {section}{\numberline {4}Events that shifted from neutrality to war}{4}{section.4}
-\contentsline {subsection}{\numberline {4.1}Appeasement}{4}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Cash and Carry}{4}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}Selective Service Act(1940)}{4}{subsection.4.3}
-\contentsline {section}{\numberline {5}Actions in Japan}{4}{section.5}
+\contentsline {section}{\numberline {1}Paragraph}{3}{section.1}
+\contentsline {section}{\numberline {2}American Foreign Policy in 1930s}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Herbert Hoover's Foreign Policy}{4}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Japanese Aggression}{4}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}Latin America}{4}{subsubsection.2.1.2}
+\contentsline {subsection}{\numberline {2.2}Franklin Roosevelt's Policies, 1933-1938}{4}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Good-Neighbor Policy}{4}{subsubsection.2.2.1}
+\contentsline {section}{\numberline {3}Isolationism and Neutrality- beliefs and policies}{4}{section.3}
+\contentsline {subsection}{\numberline {3.1}Learning from World War 1}{4}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Neutrality Acts}{5}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Spanish Civil War}{5}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}America First Commitee}{5}{subsection.3.4}
+\contentsline {section}{\numberline {4}Events that shifted from neutrality to war}{5}{section.4}
+\contentsline {subsection}{\numberline {4.1}Appeasement}{5}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Cash and Carry}{5}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Selective Service Act(1940)}{5}{subsection.4.3}
+\contentsline {section}{\numberline {5}Actions in Japan}{5}{section.5}
+\contentsline {subsection}{\numberline {5.1}U.S. Economic Action}{6}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Negotiations}{6}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Pearl Harbor}{6}{subsection.5.3}
+\contentsline {section}{\numberline {6}Home front- impact of the war on civilians}{6}{section.6}
+\contentsline {subsection}{\numberline {6.1}Mobilization}{6}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}The War's Impact on Society}{7}{subsection.6.2}
+\contentsline {subsubsection}{\numberline {6.2.1}African Americans}{7}{subsubsection.6.2.1}
+\contentsline {subsubsection}{\numberline {6.2.2}Mexican Americans}{7}{subsubsection.6.2.2}
+\contentsline {subsubsection}{\numberline {6.2.3}American Indians}{7}{subsubsection.6.2.3}
+\contentsline {subsubsection}{\numberline {6.2.4}Japanese Americans}{7}{subsubsection.6.2.4}
+\contentsline {subsubsection}{\numberline {6.2.5}Women}{8}{subsubsection.6.2.5}
+\contentsline {subsubsection}{\numberline {6.2.6}Wartime Solidarity}{8}{subsubsection.6.2.6}
+\contentsline {section}{\numberline {7}Battlefield- conditions, turning points}{8}{section.7}
